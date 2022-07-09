@@ -6,6 +6,7 @@
 - 💬 Ask me about **React.js, React-Native, Next.JS, Javascript**
 - 😄 Pronouns: Thien
 - 📫 How to reach me **trantrithien98@gmail.com**
+<p><a href="https://app.daily.dev/thientran98"><img src="https://api.daily.dev/devcards/08cc0b40a4094b0c874dfd26236f1c8e.png?r=s40" width="400" alt="thien's Dev Card"/></a></p>
 
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
