@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thien</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
-- 🌱 I’m currently learning **Angular** and **Rxjs**
 - 👯 I’m looking to collaborate on developing open source projects
 - 💬 Ask me about **React.js, React-Native, Next.JS, Javascript**
 - 😄 Pronouns: Thien
